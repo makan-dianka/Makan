@@ -1,8 +1,27 @@
 # Hello, C'est Makan !
-Développeur web / mobile
+Développeur web / mobile (Niveau 5, bac+2)
+
+### Passionné de la programmation
+- Je suis actuellement en apprentissage <strong>DevOps</strong>, <strong>GitLab CI / CD</strong>
+- Je partage mes XP sur > <a href="www.makandianka.org">www.makandianka.org</a>
+- Comment me contacter > <a href="www.makandianka.org/contact">www.makandianka.org/contact</a>
+
+### Social Network :
+<a href="https://www.twitter.com/mak_dianka">
+    <img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" width='60' height='60' />
+</a>
+
+<a href="https://www.instagram.com/geek.py">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width='30' height='60' />
+</a>
+&nbsp  &nbsp
+<a href="https://linkedin.com/in/makan-dianka-21b001196">
+    <img src="https://legroupeti.com/wp-content/uploads/2018/07/linken.png" width='60' height='60' />
+</a>
+
+
 
 ## Soft Skills
-
 <div>
   <img src="https://www.redhat.com/cms/managed-files/tux-327x360.png" width='120' height='150' />
 </div> 
