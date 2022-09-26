@@ -45,3 +45,15 @@ Développeur web / mobile (Niveau 5, bac+2)
   &nbsp  &nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width='60' height='60' />
 </div>
+
+# Support
+### Buy me a coffee :
+<a href="https://paypal.me/PyDevFR?country.x=FR&locale.x=fr_FR">
+    <img src="http://apps.oxatis.com/Files/112496/Apps-2016/Apps-Paypal.png" width='60' height='60' />
+</a>
+&nbsp  &nbsp
+ou
+&nbsp  &nbsp
+<a href="https://buy.stripe.com/14kg1GabZ9s1bjq4gh">
+    <img src="https://www.capitaine-banque.com/wp-content/uploads/2016/11/carte-bancaire-%C3%A0-16-ans3-300x200.jpg" width='100' height='60' />
+</a>
