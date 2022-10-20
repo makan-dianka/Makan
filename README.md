@@ -3,7 +3,7 @@ Développeur web / mobile (Niveau 5, bac+2)
 
 ### Passionné de la programmation
 - Je suis actuellement en apprentissage <strong>DevOps</strong>, <strong>GitLab CI / CD</strong>
-- Je partage mes XP sur > <a href="www.makandianka.org">www.makandianka.org</a>
+- Je partage mes XP sur > <a href="www.makandianka.org">www.makandianka.org/forum</a>
 - Comment me contacter > <a href="www.makandianka.org/contact">www.makandianka.org/contact</a>
 
 ### Social Network :
