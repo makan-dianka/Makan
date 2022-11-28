@@ -47,6 +47,15 @@ Développeur web / mobile (Niveau 5, bac+2)
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width='60' height='60' />
 </div>
 
+<br />
+
+# Cloud skills
+<img src="https://blogger.googleusercontent.com/img/a/AVvXsEhWFm9ADE-aPfzx2TCTd8kjCJrlVNFaw7FkO3ubNu1A22T3NIzWSh1pni2BAtklyOe57caylFR8CchGfc8nQKNfmwA9QMlesur66_6Qddt5t9JivWsDfUATObbbV9-W76LMcwslw0985GjP9bMaEAJiwzX4DualZt9hGs6HSNKqfJRtURxTAwZruQQ=s16000" width='180' height='180' /> 
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1200px-DigitalOcean_logo.svg.png" width='150' height='150' />
+
+<br />
+
 # Support
 ### Buy me a coffee :
 
