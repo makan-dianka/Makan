@@ -3,8 +3,8 @@ Développeur web / mobile (Niveau 5, bac+2)
 
 ### Passionné de la programmation
 - Je suis actuellement en apprentissage <strong>DevOps</strong>, <strong>GitLab CI / CD</strong>
-- Je partage mes XP sur > <a href="https://www.makandianka.com/forum">www.makandianka.org/forum</a>
-- Comment me contacter > <a href="https://www.makandianka.org/contact">www.makandianka.org/contact</a>
+- Je partage mes XP sur > <a href="https://www.makandianka.com/forum">www.makandianka.com/forum</a>
+- Comment me contacter > <a href="https://www.makandianka.com/contact">www.makandianka.com/contact</a>
 - Je partage des tutos ici > <a href="https://www.youtube.com/@pydev5329">https://www.youtube.com/@pydev5329</a>
 
 ### Social Network :
