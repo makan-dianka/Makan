@@ -21,7 +21,7 @@ Développeur web / mobile (Niveau 5, bac+2)
 
 
 
-## Soft Skills
+## Skills
 <div>
   <img src="https://www.redhat.com/cms/managed-files/tux-327x360.png" width='120' height='150' />
 </div> 
