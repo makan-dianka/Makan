@@ -1,5 +1,5 @@
 # Hello, C'est Makan !
-Développeur web / mobile (Niveau 5, bac+2)
+Développeur web / mobile
 
 ### Passionné de la programmation
 - Je suis actuellement en apprentissage <strong>DevOps</strong>, <strong>GitLab CI / CD</strong>
