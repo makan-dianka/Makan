@@ -16,7 +16,7 @@ Développeur web / mobile
 </a>
 &nbsp  &nbsp
 <a href="https://linkedin.com/in/makan-dianka-21b001196">
-    <img src="https://legroupeti.com/wp-content/uploads/2018/07/linken.png" width='60' height='60' />
+    <img src="https://legroupeti.com/wp-content/uploads/2018/07/linken.png" width='60' height='60' alt="Linkedin" />
 </a>
 
 
